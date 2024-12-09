@@ -1,0 +1,62 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2024-11-25 02:39:54 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/blog.php 22
+ERROR - 2024-11-25 02:39:57 --> Query error: Column 'message' cannot be null - Invalid query: INSERT INTO `contact_form` (`name`, `email`, `mobile`, `subject`, `message`) VALUES ('HwMcUjherCqEsIq', 'nmosleyon1990@gmail.com', '4758325941', 'QrLANMhj', NULL)
+ERROR - 2024-11-25 02:39:59 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 02:39:59 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 02:39:59 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 02:39:59 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 02:39:59 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 02:40:00 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 02:40:00 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 02:40:00 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 02:40:00 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 02:40:00 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 02:40:01 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/blog.php 22
+ERROR - 2024-11-25 02:40:03 --> Query error: Column 'message' cannot be null - Invalid query: INSERT INTO `contact_form` (`name`, `email`, `mobile`, `subject`, `message`) VALUES ('QBdOeCzQgyhHaQD', 'nmosleyon1990@gmail.com', '2955735390', 'bfnVRYjMvWIqz', NULL)
+ERROR - 2024-11-25 07:17:19 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 07:17:19 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 07:17:19 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 07:17:19 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 07:17:19 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 11:02:25 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 11:02:25 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 11:02:25 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 11:02:25 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 11:02:25 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 11:54:40 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 11:54:40 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 11:54:40 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 11:54:40 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 11:54:40 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 12:00:54 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 12:00:54 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 12:00:54 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 12:00:54 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 12:00:54 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 12:17:04 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 12:21:48 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/blog-details.php 2
+ERROR - 2024-11-25 12:25:43 --> Severity: Warning --> foreach() argument must be of type array|object, int given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/blog.php 22
+ERROR - 2024-11-25 14:28:26 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 15:32:55 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 16:00:40 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 16:10:01 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 16:10:01 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 16:10:01 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 274
+ERROR - 2024-11-25 16:10:01 --> Severity: Warning --> Undefined variable $service_view /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 16:10:01 --> Severity: Warning --> foreach() argument must be of type array|object, null given /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 286
+ERROR - 2024-11-25 17:09:07 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 17:55:17 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 18:42:23 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 19:25:20 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 19:37:17 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92
+ERROR - 2024-11-25 23:25:54 --> Severity: Warning --> Undefined variable $seo_course_data /home/u936245426/domains/adhyayeduventure.com/public_html/application/views/frontend/include/header.php 92

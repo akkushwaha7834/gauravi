@@ -1,0 +1,17 @@
+User-agent: *
+User-agent: googlebot
+Disallow: /private/privat/private
+User-agent: bingbot
+Disallow: /privat/private
+User-agent: BingPreview
+Disallow: /private
+User-agent: Yandex
+Disallow: /private
+User-agent: Baiduspider
+Disallow: /private
+User-agent: AdIdxBot
+Disallow:
+Disallow: /wp-json/
+Disallow: /?rest_route=
+Disallow: /training/
+Disallow: /old/
